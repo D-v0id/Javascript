@@ -1,7 +1,7 @@
-alert("hello world!")
+console.log("hello world!")
 let js = 'amazing'
-if (js === 'amazing') alert('JavaScript is FUN')
+if (js === 'amazing') console.log('JavaScript is FUN')
 js = 'boring'
 "boring"
-if (js === 'amazing') alert('JavaScript is FUN')
+if (js === 'amazing') console.log('JavaScript is FUN')
 
